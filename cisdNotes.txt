@@ -1,0 +1,11 @@
+CISD
+
+DB name: cisd-dev
+DB Username: root
+DB Password:
+DB host: localhost
+
+Site Title: Creative InSite Design
+Site Username: admin
+Site Passwowrd: kV5bwuQ)pricv)C!Pj
+Site Email: salomestarbuck@gmail.com
