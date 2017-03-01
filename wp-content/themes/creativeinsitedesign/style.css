@@ -260,13 +260,20 @@ th {
 /*--------------------------------------------------------------
 # Typography
 --------------------------------------------------------------*/
+
+ /*   font-family: 'Roboto', sans-serif;
+
+    font-family: 'Open Sans', sans-serif;
+
+    font-family: 'Roboto Slab', serif;    */
+
 body,
 button,
 input,
 select,
 textarea {
 	color: #404040;
-	font-family: sans-serif;
+	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
 	font-size: 1rem;
 	line-height: 1.5;
@@ -278,6 +285,7 @@ h3,
 h4,
 h5,
 h6 {
+	font-family: 'Roboto Slab', serif; 
 	clear: both;
 }
 
